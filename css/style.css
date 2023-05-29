@@ -298,7 +298,7 @@ h1,h3,h4
 /* ======= footer section starts here =========== */
 .top-footer
 {
-    background: url('./images/footer-bg.png');
+    background: url('/images/footer-bg.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
